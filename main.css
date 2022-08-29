@@ -1,4 +1,16 @@
 :root {
   --Emoji-Menu-Height:
-
+}
+.theme-dark .hljs-command,
+.theme-dark .hljs-doctag,
+.theme-dark .hljs-hexcolor,
+.theme-dark .hljs-link_url,
+.theme-dark .hljs-number,
+.theme-dark .hljs-regexp,
+.theme-dark .hljs-rule .hljs-value,
+.theme-dark .hljs-string,
+.theme-dark .hljs-tag .hljs-value,
+.theme-dark .tex .hljs-formula {
+    color: #2aa198
+}
 }
